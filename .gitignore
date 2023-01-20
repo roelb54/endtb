@@ -1,0 +1,93 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# R Environment Variables
+.Renviron
+
+# OSX Desktop Services Store
+**/.DS_Store
+
+# RB output files
+RB
+
+# countries
+
+
+# countries
+countries-org
+
+
+countries-temp/**/*
+!countries-temp/
+!countries-temp/IND/
+!countries-temp/IND/data/
+!countries-temp/IND/data/demographics.csv
+!countries-temp/IND/data/IND_deathrates.csv
+!countries-temp/IND/data/IND_all_contacts.txt
+!countries-temp/IND/data/IND_all_contacts_2020.txt
+!countries-temp/IND/parameters/
+!countries-temp/IND/parameters/input572F.csv
+!countries-temp/IND/parameters/RC_IND_targets_RBv7minx.csv
+!countries-temp/IND/logs/*
+!countries-temp/IND/output/*
+!countries-temp/
+!countries-temp/ZAF/
+!countries-temp/ZAF/data/
+!countries-temp/ZAF/data/demographics.csv
+!countries-temp/ZAF/data/ZAF_deathrates.csv
+!countries-temp/ZAF/data/ZAF_all_contacts.txt
+!countries-temp/ZAF/data/ZAF_all_contacts_2020.txt
+!countries-temp/ZAF/parameters/
+!countries-temp/ZAF/parameters/XMLinput_cm_TBHIVdead2.xml
+!countries-temp/ZAF/parameters/XMLinput_cm_TBHIVdead2minimalTB.xml
+!countries-temp/ZAF/parameters/input_cm.csv
+!countries-temp/ZAF/parameters/CMAD_ZAF_targets_add3.csv
+
+!countries-temp/ZAF/logs/*
+!countries-temp/ZAF/output/*
+
+
+
+!countries-temp/*.xsd
+
+
+
+
+
+
+
+
+
+
+
+# test
+
+test/**/*
+
+
+
+
+
+
+
+# edu
+edu
+
+# doc
+doc
+
+# diversen
+AutoEmulate*
+
+#temp
+temp

@@ -1,0 +1,6 @@
+INFO  [2022-04-03 13:12:17]  ntimesteps = 3136 in 8.780s elapsed (8.780s cpu)
+INFO  [2022-04-03 13:12:53]  ntimesteps = 3150 in 8.940s elapsed (8.920s cpu)
+INFO  [2022-04-03 13:13:31]  ntimesteps = 3174 in 8.920s elapsed (8.910s cpu)
+INFO  [2022-04-03 13:13:57]  ntimesteps = 3182 in 9.200s elapsed (9.200s cpu)
+INFO  [2022-04-03 13:14:25]  ntimesteps = 3182 in 8.990s elapsed (8.990s cpu)
+INFO  [2022-04-03 13:15:02]  ntimesteps = 3182 in 8.890s elapsed (8.870s cpu)
