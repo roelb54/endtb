@@ -1,0 +1,14 @@
+year	xVXa	xSES	xRISK	xHIV	xTB	xtype	xcause	yVXa	ySES	yRISK	yHIV	yTB	ytype	ycause	fn	age_from	age_thru	value	lo	hi	err	name	type	model	fit	residuals	weighted_residuals
+2019.5	all	all	all	all	Ds	stock	NA	all	all	all	all	Ds,Dc	stock	NA	x/y	0	99	0.504	0.361	0.797	0.218	TB_subclinpr_0_99	ratio	0.535278728938342	TRUE	0.0312787289383424	0.143480407974048
+2019.5	all	high	all	all	Ds, Dc	stock	NA	all	low	all	all	Ds,Dc	stock	NA	x/y	0	99	0.674	0.575	0.801	0.113	TB_prr_0_99	ratio	0.729816617785246	TRUE	0.055816617785246	0.493952369780938
+2019.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	14	259.7827889	111.335481	400.8077315	144.7361253	TB_inci_0_14	inci	848.340591167858	FALSE	588.557802267858	4.06641949995505
+2019.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	15	99	443.9643316	189.4247815	692.5843572	251.5797879	TB_inci_15_99	inci	1160.67650185087	FALSE	716.712170250867	2.84884638878761
+2019.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	362.2467373	207.4685859	517.0248886	154.7781514	TB_inci_0_99	inci	1021.95370714681	FALSE	659.706969846807	4.26227451277601
+2019.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	14	95.42192956	76.33754365	114.5063155	19.08438593	TB_notif_0_14	inci	308.754781244981	FALSE	213.332851684981	11.1783974851205
+2019.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	15	99	492.315007	393.8520056	590.7780084	98.4630014	TB_notif_15_99	inci	809.039320579527	FALSE	316.724313579527	3.2166835164089
+2019.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	316.2216427	252.9773142	379.4659712	63.2443285	TB_notif_0_99	inci	586.839864577311	FALSE	270.618221877311	4.27893264575195
+2019.5	all	all	all	all	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	37	25	52	13.5	TB_deaths_0_99	inci	117.221681937101	FALSE	80.2216819371009	5.94234681015562
+2019.5	all	all	all	HIV1,ART1	all	stock	NA	all	all	all	all	all	stock	NA	x/y	0	99	0.072449347	0.059276739	0.09220826	0.016465761	HIV_prev_0_99	ratio	0.0662257443970498	TRUE	-0.0062236026029502	-0.377972363557943
+2019.5	all	all	all	ART1	all	stock	NA	all	all	all	HIV1,ART1	all	stock	NA	x/y	0	99	0.6	0.48	0.74	0.13	HIV_artcov_0_99	ratio	0.661242656986248	TRUE	0.061242656986248	0.471097361432677
+2019.5	all	all	all	HIV1,ART1	Ds	inflow	Tm_drugsens,TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	122	75	180	52.5	TB_newhivinf_0_99	inci	185.721477157412	FALSE	63.7214771574116	1.21374242204594
+2019.5	all	all	all	HIV1,ART1	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	18	4	38	17	TB_morthiv_0_99	inci	15.5442483517054	TRUE	-2.45575164829465	-0.14445597931145

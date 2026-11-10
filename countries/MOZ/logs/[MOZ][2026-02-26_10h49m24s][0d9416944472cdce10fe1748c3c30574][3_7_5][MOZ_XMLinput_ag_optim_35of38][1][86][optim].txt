@@ -1,0 +1,64 @@
+year	xVXa	xSES	xRISK	xHIV	xTB	xtype	xcause	yVXa	ySES	yRISK	yHIV	yTB	ytype	ycause	fn	age_from	age_thru	value	lo	hi	err	name	type	model	fit	residuals	weighted_residuals
+2010.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	357	222	524	151	TB_inci_0_99	e_inc_100k_ALL	559.472560102622	FALSE	202.472560102622	1.34087788147432
+2015.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	361	223	532	154.5	TB_inci_0_99	e_inc_100k_ALL	409.704302142813	TRUE	48.7043021428125	0.315238201571602
+2019.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	361	223	532	154.5	TB_inci_0_99	e_inc_100k_ALL	341.205657017126	TRUE	-19.7943429828743	-0.128118724808248
+2019.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	14	259.7827889	111.335481	400.8077315	144.7361253	TB_inci_0_14	inci	145.644508655328	TRUE	-114.138280244672	-0.788595659916234
+2019.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	15	99	443.9643316	189.4247815	692.5843572	251.5797879	TB_inci_15_99	inci	497.67763792188	TRUE	53.7133063218797	0.213504060760359
+2020.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	361	220	537	158.5	TB_inci_0_99	e_inc_100k_ALL	327.764689970174	TRUE	-33.2353100298259	-0.209686498610889
+2021.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	361	220	537	158.5	TB_inci_0_99	e_inc_100k_ALL	315.6182824514	TRUE	-45.3817175486005	-0.286319984533757
+2022.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	361	220	537	158.5	TB_inci_0_99	e_inc_100k_ALL	304.724155213697	TRUE	-56.2758447863028	-0.355052648494024
+2023.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	361	220	537	158.5	TB_inci_0_99	e_inc_100k_ALL	294.669248559155	TRUE	-66.3307514408446	-0.418490545368105
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	361	220	537	158.5	TB_inci_0_99	e_inc_100k_ALL	285.066644456094	TRUE	-75.9333555439063	-0.479074798384267
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	4	109	54.5	163.5	54.5	TB_inci_2024	inci	82.544069041344	TRUE	-26.455930958656	-0.485429925846899
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	5	9	127	63.5	190.5	63.5	TB_inci_2024	inci	137.656578220917	TRUE	10.6565782209172	0.167820129463262
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	10	14	149	74.5	223.5	74.5	TB_inci_2024	inci	159.736462165915	TRUE	10.7364621659154	0.144113586119669
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	15	19	147	73.5	220.5	73.5	TB_inci_2024	inci	183.929746114714	TRUE	36.9297461147144	0.502445525370264
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	20	24	254	127	381	127	TB_inci_2024	inci	217.734299084769	TRUE	-36.2657009152313	-0.285556700119931
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	25	34	444	222	666	222	TB_inci_2024	inci	311.314638181601	TRUE	-132.685361818399	-0.597681809992789
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	35	44	731	365.5	1096.5	365.5	TB_inci_2024	inci	508.875995257799	TRUE	-222.124004742201	-0.607726415163342
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	45	54	866	433	1299	433	TB_inci_2024	inci	715.040121244252	TRUE	-150.959878755748	-0.348637133385099
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	55	64	1120	560	1680	560	TB_inci_2024	inci	836.518241671843	TRUE	-283.481758328157	-0.506217425585994
+2024.5	all	all	all	all	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	65	99	1465	732.5	2197.5	732.5	TB_inci_2024	inci	901.302254609646	TRUE	-563.697745390354	-0.769553236027787
+2019.5	all	all	all	all	Ds	stock	NA	all	all	all	all	Ds,Dc	stock	NA	x/y	0	99	0.504	0.361	0.797	0.218	TB_subclinpr_0_99	ratio	0.33005683556425	FALSE	-0.17394316443575	-0.7979044240172
+2019.5	all	high	all	all	Ds, Dc	stock	NA	all	low	all	all	Ds,Dc	stock	NA	x/y	0	99	0.674	0.575	0.801	0.113	TB_prr_0_99	ratio	0.656060929349024	TRUE	-0.0179390706509756	-0.158752837619253
+2019.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	14	95.42192956	76.33754365	114.5063155	19.08438593	TB_notif_0_14	inci	100.765160814389	TRUE	5.34323125438934	0.279979207818783
+2019.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	15	99	492.315007	393.8520056	590.7780084	98.4630014	TB_notif_15_99	inci	379.845433396915	FALSE	-112.469573603085	-1.1422521353598
+2019.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	316.2216427	252.9773142	379.4659712	63.2443285	TB_notif_0_99	inci	255.799599490863	TRUE	-60.4220432091373	-0.955374887238106
+2010.5	all	all	all	all	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	121	80	169	44.5	TB_deaths_0_99	e_mort_100k	70.2052780893654	FALSE	-50.7947219106346	-1.14145442495808
+2015.5	all	all	all	all	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	100	68	138	35	TB_deaths_0_99	e_mort_100k	49.2220993978886	FALSE	-50.7779006021114	-1.45079716006033
+2019.5	all	all	all	all	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	39	26	55	14.5	TB_deaths_0_99	e_mort_100k	39.654341825327	TRUE	0.654341825327016	0.0451270224363459
+2020.5	all	all	all	all	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	40	27	56	14.5	TB_deaths_0_99	e_mort_100k	37.9454525790587	TRUE	-2.05454742094129	-0.141692925582158
+2021.5	all	all	all	all	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	41	27	57	15	TB_deaths_0_99	e_mort_100k	36.3917989404424	TRUE	-4.60820105955758	-0.307213403970505
+2022.5	all	all	all	all	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	28	16	42	13	TB_deaths_0_99	e_mort_100k	34.986187608733	TRUE	6.98618760873302	0.537399046825617
+2023.5	all	all	all	all	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	23	12	37	12.5	TB_deaths_0_99	e_mort_100k	33.7190913006058	TRUE	10.7190913006058	0.857527304048467
+2024.5	all	all	all	all	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	41	27	57	15	TB_deaths_0_99	e_mort_100k	32.563255001733	TRUE	-8.43674499826702	-0.562449666551134
+2010.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	189	94.5	283.5	94.5	TB_notif_0_99	c_newinc_100k	422.486149895716	FALSE	233.486149895716	2.47075290894938
+2015.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	220	110	330	110	TB_notif_0_99	c_newinc_100k	310.772405137313	TRUE	90.7724051373129	0.825203683066481
+2019.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	321	160.5	481.5	160.5	TB_notif_0_99	c_newinc_100k	255.799599490863	TRUE	-65.2004005091372	-0.406233024979048
+2020.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	313	156.5	469.5	156.5	TB_notif_0_99	c_newinc_100k	245.449838516776	TRUE	-67.5501614832241	-0.431630424812933
+2021.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	309	154.5	463.5	154.5	TB_notif_0_99	c_newinc_100k	235.881898484324	TRUE	-73.1181015156759	-0.473256320489812
+2022.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	337	168.5	505.5	168.5	TB_notif_0_99	c_newinc_100k	227.213519530418	TRUE	-109.786480469582	-0.651551812875856
+2023.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	346	173	519	173	TB_notif_0_99	c_newinc_100k	219.356760990761	TRUE	-126.643239009239	-0.732041843984039
+2024.5	all	all	all	all	T	inflow	TBtr_init	all	all	all	all	all	stock	NA	1e5*x/y	0	99	308	154	462	154	TB_notif_0_99	c_newinc_100k	212.094255155582	TRUE	-95.9057448444179	-0.622764576911804
+2010.5	all	all	all	HIV1,ART1	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	90	53	136	41.5	TB_deaths_0_99	e_mort_100k	36.9298443895789	FALSE	-53.0701556104211	-1.27879893037159
+2015.5	all	all	all	HIV1,ART1	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	67	40	101	30.5	TB_deaths_0_99	e_mort_100k	21.9443864597765	FALSE	-45.0556135402235	-1.477233230827
+2019.5	all	all	all	HIV1,ART1	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	20	11	32	10.5	TB_deaths_0_99	e_mort_100k	16.3977036299387	TRUE	-3.60229637006125	-0.343075844767738
+2020.5	all	all	all	HIV1,ART1	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	18	10	28	9	TB_deaths_0_99	e_mort_100k	15.5299876292361	TRUE	-2.47001237076388	-0.274445818973765
+2021.5	all	all	all	HIV1,ART1	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	17	9.9	26	8.05	TB_deaths_0_99	e_mort_100k	14.7686153715585	TRUE	-2.23138462844147	-0.277190637073474
+2022.5	all	all	all	HIV1,ART1	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	12	6.4	21	7.3	TB_deaths_0_99	e_mort_100k	14.1031496683134	TRUE	2.10314966831343	0.288102694289511
+2023.5	all	all	all	HIV1,ART1	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	9.9	4.6	17	6.2	TB_deaths_0_99	e_mort_100k	13.5129925247665	TRUE	3.61299252476652	0.582740729801051
+2024.5	all	all	all	HIV1,ART1	TBdead	inflow	TBp,TBtr_died	all	all	all	all	all	stock	NA	1e5*x/y	0	99	16	9.4	25	7.8	TB_deaths_0_99	e_mort_100k	12.9804080203562	TRUE	-3.01959197964382	-0.387127176877413
+2010.5	all	all	all	HIV1,ART1	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	216	127	329	101	TB_inci_0_99	e_inc_tbhiv_100k	246.536896882646	TRUE	30.5368968826459	0.302345513689564
+2015.5	all	all	all	HIV1,ART1	Ds	inflow	Tm_drugsens,TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	186	108	284	88	TB_newhivinf_0_99	inci	155.528121120563	TRUE	-30.4718788794369	-0.346271350902692
+2019.5	all	all	all	HIV1,ART1	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	122	71	187	58	TB_inci_0_99	e_inc_tbhiv_100k	122.746644496569	TRUE	0.746644496568877	0.0128731809753255
+2020.5	all	all	all	HIV1,ART1	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	99	57	153	48	TB_inci_0_99	e_inc_tbhiv_100k	117.135706994419	TRUE	18.1357069944186	0.377827229050387
+2021.5	all	all	all	HIV1,ART1	Ds	inflow	Tm_drugsens,TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	90	52	138	43	TB_newhivinf_0_99	inci	112.076134358394	TRUE	22.076134358394	0.513398473451023
+2022.5	all	all	all	HIV1,ART1	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	92	53	142	44.5	TB_inci_0_99	e_inc_tbhiv_100k	107.539830091342	TRUE	15.5398300913421	0.34920966497398
+2023.5	all	all	all	HIV1,ART1	Ds	inflow	Tm_drugsens, TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	83	48	128	40	TB_inci_0_99	e_inc_tbhiv_100k	103.390020752268	TRUE	20.3900207522678	0.509750518806695
+2024.5	all	all	all	HIV1,ART1	Ds	inflow	Tm_drugsens,TBp, TBtr_LfLsRDs	all	all	all	all	all	stock	NA	1e5*x/y	0	99	85	49	131	41	TB_newhivinf_0_99	inci	99.5225918237511	TRUE	14.5225918237511	0.354209556676856
+2019.5	all	all	all	HIV1,ART1	all	stock	NA	all	all	all	all	all	stock	NA	x/y	0	99	0.072449347	0.059276739	0.09220826	0.016465761	HIV_prev_0_99	ratio	0.0828617575750858	TRUE	0.0104124105750858	0.632367406224697
+2019.5	all	all	all	ART1	all	stock	NA	all	all	all	HIV1,ART1	all	stock	NA	x/y	0	99	0.6	0.48	0.74	0.13	HIV_artcov_0_99	ratio	0.676853812636604	TRUE	0.0768538126366041	0.591183174127724
+2024.5	all	all	all	HIV1,ART1	all	stock	NA	all	all	all	all	all	stock	NA	1e2*x/y	15	49	11.5	10.8	12.1	0.65	HIV_prev	HIV_prev_15_49	11.9876266733371	TRUE	0.487626673337109	0.750194882057091
+2024.5	all	all	all	ART1	all	stock	NA	all	all	all	HIV1,ART1	all	stock	NA	1e2*x/y	15	99	84	69	100	15.5	ART_cov	ART_cov_15_99	66.8925235006806	FALSE	-17.1074764993194	-1.10370816124641
+2020.5	all	all	all	HIV1,ART1	all	stock	NA	all	all	all	all	all	stock	NA	1e2*x/y	15	49	12.6	12.2	12.9	0.35	HIV_prev	HIV_prev_15_49	12.7176908874458	TRUE	0.117690887445791	0.336259678416546
+2020.5	all	all	all	ART1	all	stock	NA	all	all	all	HIV1,ART1	all	stock	NA	1e2*x/y	15	99	63	52	73	10.5	ART_cov	ART_cov_15_99	66.4136135428475	TRUE	3.41361354284751	0.325106051699763

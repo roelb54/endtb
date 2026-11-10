@@ -1,0 +1,37 @@
+name,unique.name,xpath,VXa.stage,SES.stage,RISK.stage,HIV.stage,age.group,dist,mean,shape,min,max,choose,X,X.1,X.2,X.3,X.4,X.5,X.6,X.7,X.8,X.9,X.10,X.11,X.12,X.13,X.14,X.15,X.16,X.17,X.18,X.19,X.20,X.21,X.22
+ep,ep,//TB/TB.infectivity/TB.parameter,NA,NA,NA,NA,NA,constant,0.05332539,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+infs,infs,//TB/TB.infectivity/TB.parameter,NA,NA,NA,NA,NA,constant,0.8,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1,j1A15,//TB/TB.progression/TB.parameter; //TB/TB.transmission/TB.parameter,NA,NA,NA,NA,A15,constant,1,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j2,j2A15,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,A15,constant,1,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j3,j3A15,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,A15,constant,1,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j4,j4A15,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,A15,constant,1,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+omega,omega,//TB/TB.progression/TB.parameter; //TB/TB.transmission/TB.parameter,NA,NA,NA,NA,NA,constant,0.5,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pC,pC,//TB/TB.transmission/TB.parameter,NA,NA,NA,NA,NA,constant,0.5,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pE,pElow,//TB/TB.progression/TB.parameter; //TB/TB.transmission/TB.parameter,NA,low,NA,NA,NA,constant,0,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+phiF,phiF,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,constant,1.4e-06,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sage,sageA0,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,A0,constant,1,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tau,tau,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,constant,0.5,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+betaH,betaH,//HIV/HIV.progression/HIV.parameter,NA,NA,NA,NA,NA,constant,0.074,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+muH,muH,//HIV/HIV.progression/HIV.parameter,NA,NA,NA,NA,NA,constant,0.1,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+alphaH,alphaH,//HIV/HIV.progression/HIV.parameter,NA,NA,NA,NA,NA,uniform,1506.88649678375,NA,0,7000,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+chi,chi,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,uniform,0.180253120771233,NA,0.1,0.25,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+eta,eta,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,uniform,1,NA,0,1,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1,j1A0,//TB/TB.progression/TB.parameter; //TB/TB.transmission/TB.parameter,NA,NA,NA,NA,A0,uniform,0,NA,0,1,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j2,j2A0,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,A0,uniform,0.409388682978887,NA,0,1,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j3,j3A0,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,A0,uniform,0.894005885075241,NA,0,1,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j4,j4A0,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,A0,uniform,0.276049493783507,NA,0,1,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kappa,kappa,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,uniform,0.0797054029952461,NA,0,0.141285486,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lambdaH,lambdaH,//HIV/HIV.progression/HIV.parameter,NA,NA,NA,NA,NA,uniform,64.7268909268265,NA,0,300,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+muDc,muDc,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,uniform,0,NA,0,0.178,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+muK,muK,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,uniform,0.0174662203738698,NA,0.003,0.025,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+multiplier,multiplier,//TB/seeded.infections,NA,NA,NA,NA,NA,uniform,1.07513235013631,NA,0,1.9,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pE,pEhigh,//TB/TB.progression/TB.parameter; //TB/TB.transmission/TB.parameter,NA,high,NA,NA,NA,uniform,0.332347799538769,NA,0,0.999,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+phiS,phiS,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,uniform,0.0349586078085802,NA,0.0254,0.0467,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pR,pR,//TB/TB.transmission/TB.parameter,NA,NA,NA,NA,NA,uniform,0.692506564803491,NA,0.6,0.85,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pT,pT,//TB/TB.transmission/TB.parameter,NA,NA,NA,NA,NA,uniform,0.00086089849623058,NA,0,0.0068,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rho,rho,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,uniform,0.00337314646422575,NA,1e-04,0.07,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sage,sageA15,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,A15,uniform,1,NA,0,1,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sigma,sigma,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,uniform,0.000782483071083191,NA,0.000135,0.00113,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+theta,theta,//TB/TB.progression/TB.parameter; //TB/TB.transmission/TB.parameter,NA,NA,NA,NA,NA,uniform,0.105349649642133,NA,0.0696,0.111,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+thetamul,thetamul,//TB/TB.progression/TB.parameter; //TB/TB.transmission/TB.parameter,NA,NA,NA,NA,NA,uniform,13.9389392420305,NA,3.94,14.45,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+zeta,zeta,//TB/TB.progression/TB.parameter,NA,NA,NA,NA,NA,uniform,1.2807293294955,NA,0,12,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

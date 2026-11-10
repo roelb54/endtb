@@ -1,0 +1,67 @@
+# History files
+.Rhistory
+.Rapp.history
+
+#
+processing_files/
+
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# R Environment Variables
+.Renviron
+
+# OSX Desktop Services Store
+**/.DS_Store
+
+# RB output files
+RB
+
+# demography UNPOP WPP files
+R/UNPOP-WPP-processing/UNPOP
+R/UNPOP-WPP-processing/*.zip
+
+# 
+play-with-TIME
+post-calibration-analysis
+processing_files
+renv
+temp-and-old-stuff
+
+countries/VNM/logs
+
+# logs
+#**/logs
+
+# output
+**/output
+
+# test
+test/**/*
+
+# countries
+countries-examples
+countries-temp
+countries/ZAF/logs
+countries/ZAF/output
+countries/NAM/logs
+countries/NAM/output
+
+# edu
+edu
+
+# doc
+doc
+
+# diversen
+AutoEmulate*
+
+#temp
+temp
